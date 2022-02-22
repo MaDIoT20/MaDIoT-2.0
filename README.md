@@ -14,3 +14,6 @@ All the scripts were written in Matlab becuase it is easy to link it with the gr
 
 ## Bugs, Issues, and Suggestions?
 Please feel free to share any bugs, issues, and suggestions with us by sending an email to madiot20@gmail.com. Any feedback is greatly appreciated.
+
+## Disclaimer
+Some of the scripts in this repository were borrowed from Matpower (https://matpower.org/).
